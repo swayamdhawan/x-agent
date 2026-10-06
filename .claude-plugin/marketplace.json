@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "x-agent",
+  "description": "The X agent skill pack for Claude",
+  "owner": { "name": "Swayam Dhawan", "url": "https://creatofy.com" },
+  "plugins": [
+    {
+      "name": "x-agent",
+      "description": "Eleven Claude skills that run an X account, including a virality engine, a hook scorer, X's weighted character counter, a thread builder and a humanizer.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/swayamdhawan/x-agent"
+    }
+  ]
+}
